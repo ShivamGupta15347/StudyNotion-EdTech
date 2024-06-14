@@ -1,9 +1,14 @@
 <<<<<<< HEAD
+
 # StudyNotion Edtech Project
+
 =======
+
 # StudyNotion-EdTech
+
 Full Stack EdTech platform using MERN stack
->>>>>>> 751135cacc979c8ffdbb7c75b78e66c7dbfbc596
+
+> > > > > > > 751135cacc979c8ffdbb7c75b78e66c7dbfbc596
 
 -Full-Stack MERN Web
 -Tailwind Used
@@ -13,8 +18,8 @@ To run this web on your computer, follow these steps:
 
 Clone the repository to your local machine.
 
-git clone https://github.com/AyushR97j/StudyNotion-EdTech.git
-Install the required packages. 
+git clone from link
+Install the required packages.
 
 cd StudyNotion-EdTech
 npm install
